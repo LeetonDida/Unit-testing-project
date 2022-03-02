@@ -13,3 +13,4 @@ C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.dll
 C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\ref\lab8.dll
 C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.pdb
 C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.genruntimeconfig.cache
+C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.csproj.AssemblyReference.cache

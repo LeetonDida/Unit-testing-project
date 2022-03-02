@@ -16,5 +16,27 @@ namespace lab8
         {
             return x * x;
         }
+
+        public double doubleAddition(Double a, Double b)
+        {
+            return a + b;
+            
+        }
+
+        public long GetFactorial(int number)
+
+        {
+
+            if (number == 0)
+
+            {
+
+                return 0;
+
+            }
+
+            return number * GetFactorial(number - 1);
+
+        }
     }
 }
