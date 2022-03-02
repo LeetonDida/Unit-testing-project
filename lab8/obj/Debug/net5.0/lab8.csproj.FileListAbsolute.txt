@@ -1,0 +1,15 @@
+C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.AssemblyInfoInputs.cache
+C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.AssemblyInfo.cs
+C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.csproj.CoreCompileInputs.cache
+C:\Users\leeto\source\repos\unit_testing\lab8\bin\Debug\net5.0\lab8.exe
+C:\Users\leeto\source\repos\unit_testing\lab8\bin\Debug\net5.0\lab8.deps.json
+C:\Users\leeto\source\repos\unit_testing\lab8\bin\Debug\net5.0\lab8.runtimeconfig.json
+C:\Users\leeto\source\repos\unit_testing\lab8\bin\Debug\net5.0\lab8.runtimeconfig.dev.json
+C:\Users\leeto\source\repos\unit_testing\lab8\bin\Debug\net5.0\lab8.dll
+C:\Users\leeto\source\repos\unit_testing\lab8\bin\Debug\net5.0\ref\lab8.dll
+C:\Users\leeto\source\repos\unit_testing\lab8\bin\Debug\net5.0\lab8.pdb
+C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.dll
+C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\ref\lab8.dll
+C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.pdb
+C:\Users\leeto\source\repos\unit_testing\lab8\obj\Debug\net5.0\lab8.genruntimeconfig.cache
